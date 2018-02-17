@@ -1,0 +1,68 @@
+body
+{
+	margin: 20px;
+	padding: 0;
+	background-color: white;
+}
+#left_header
+{
+	float: center;
+	width: 600px;
+	height: 50px;
+	background-color: orange;
+
+	text-align: center;
+	margin-left: 28%;
+	padding-bottom: 20px ;
+}
+.hold{
+	color: black;
+}
+#slid{
+	overflow: hidden;
+}
+
+#slid figure h1{
+	width: 20%;
+	float: left;
+
+
+}
+#slid figure{
+	position: relative;width: 500%;
+	animation: 3s slider infinite;
+}
+.h1v
+{
+
+
+	font-family: 'Raleway', sans-serif;
+  	text-align: center;
+  	background-color: skyblue;
+  	background-size: cover;
+  	margin-left:26%;
+  	padding: 0;
+  	color:white;
+  	 display: inline-block;
+  	 animation: 0s slider infinite;
+}
+.h3  a:hover
+{
+	text-align: right;
+	background-color: yellow;
+	background-size:  cover;
+	margin:0;
+	padding: 0 ;
+}
+.td1
+{
+	font-family: 'raleway',sans-serif;
+	color: blue; 
+}
+.forms
+{
+	
+	font-family: 'raleway',sans-serif;
+	color: blue;
+
+}
